@@ -1,5 +1,5 @@
-.dataBase
+.dataBase/
 .composer.json
 .composer.lock
-.vendor
-.api
+.vendor/
+.api/
